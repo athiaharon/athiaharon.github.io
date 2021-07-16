@@ -4,7 +4,7 @@
 
 This is what she looks like:
 
-<img src="https://athiaharon.github.io/profile.png" width="250" height="250" />
+![Image](src="https://athiaharon.github.io/profile.png" width="250" height="250")
 
 ### Markdown
 
