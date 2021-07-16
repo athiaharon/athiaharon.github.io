@@ -3,7 +3,7 @@
 **Athia Haron** is a _medical engineering research associate_ at the **University of Manchester**.
 
 This is what she looks like:
-[Image](src)
+[Image](https://athiaharon.github.io/profile.png)
 
 ### Markdown
 
@@ -24,6 +24,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://athiaharon.github.io/profile.png)
+[Link](url) and ![Image](src)
 ```
 
