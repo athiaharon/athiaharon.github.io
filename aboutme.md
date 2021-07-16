@@ -5,7 +5,7 @@
 This is what she looks like:
 
 ![Image](src="https://athiaharon.github.io/profile.png" width="250" height="250")
-
+![Image](https://athiaharon.github.io/profile.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
