@@ -1,18 +1,12 @@
 # People
-<div class="row">
-  <div class="column">
-   <a href="https://athiaharon.github.io/">
-    <img src="https://athiaharon.github.io/profile.png" alt="Athia" style="width:100%">
-    </a>
-  </div>
-  <div class="column">
-    <img src="https://athiaharon.github.io/profile.png" alt="Athia" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://athiaharon.github.io/profile.png" alt="Athia" style="width:100%">
-  </div>
-</div>
 
+<a href="https://athiaharon.github.io/">
+<p align="center">
+           <img alt="AthiaHaron" src="https://athiaharon.github.io/profile.png"
+         width=250" height="250">
+</p>
+      </a>
+                                
  <a href="https://athiaharon.github.io/">
          <img alt="AthiaHaron" src="https://athiaharon.github.io/profile.png"
          width=250" height="250">
