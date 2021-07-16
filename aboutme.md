@@ -1,4 +1,4 @@
-# People
+# Principal Investigators
 
 
 <p align="center">
@@ -18,6 +18,8 @@
 </p>
                                 
 **Athia Haron** is a _medical engineering research associate_ at the **University of Manchester**. She has a Masters and PhD in Aerospace Engineering, specialising in bat-inpsired sonar for autonomous navigation. Her current research focuses on developing a navigation system to help ICU clinicians perform tracheostomy procedures. Click on the image to learn more about her research!
+
+# Current Researchers
                                 
 [Athia Haron](https://athiaharon.github.io)       |  [Athia's Twin](https://athiaharon.github.io)     | [Athia's OTHER twin](https://athiaharon.github.io) 
 :-------------------------:|:-------------------------:|:--------------------------:
