@@ -6,12 +6,14 @@
            <img alt="AthiaHaron" src="https://athiaharon.github.io/profile.png"
             width=250" height="250">
          </a>
+                                   
          <a href="https://athiaharon.github.io/">
-           <img alt="AthiaHaron" src="https://athiaharon.github.io/profile.png"
+           <img alt="AthiaHaron2" src="https://athiaharon.github.io/profile.png"
             width=250" height="250">
          </a>         
+         
          <a href="https://athiaharon.github.io/">
-           <img alt="AthiaHaron" src="https://athiaharon.github.io/profile.png"
+           <img alt="AthiaHaron3" src="https://athiaharon.github.io/profile.png"
             width=250" height="250">
          </a>
 </p>
