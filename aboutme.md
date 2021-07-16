@@ -4,7 +4,7 @@
 <p align="center">
          <a href="https://athiaharon.github.io/">
            <img alt="AthiaHaron" src="https://athiaharon.github.io/profile.png"
-            width=250" height="250">
+            width=300" height="300">
          </a>                
 </p>
                                 
@@ -12,8 +12,7 @@
                                    
 <p align="center">
          <a href="https://athiaharon.github.io/">
-           <img alt="AthiaHaron2" src="https://athiaharon.github.io/profile.png"
-            width=250" height="250">
+         ![Image](src="https://athiaharon.github.io/profile.png" width=300" height="300")
          </a>                
 </p>
                                 
