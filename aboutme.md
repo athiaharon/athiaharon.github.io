@@ -12,7 +12,7 @@
                                    
 <p align="center">
          <a href="https://athiaharon.github.io/">
-         ![Image](https://athiaharon.github.io/profile.png)
+         ![Image](src=https://athiaharon.github.io/profile.png)
          </a>                
 </p>
                                 
