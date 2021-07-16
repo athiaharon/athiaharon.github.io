@@ -6,6 +6,12 @@ This is what she looks like:
 
 ![Image](src="https://athiaharon.github.io/profile.png" width="250" height="250")
 ![Image](https://athiaharon.github.io/profile.png)
+
+ <a href="https://athiaharon.github.io/">
+         <img alt="AthiaHaron" src="https://athiaharon.github.io/profile.png"
+         width=150" height="250">
+      </a>
+                               
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
