@@ -1,5 +1,3 @@
 theme: jekyll-theme-cayman
 title: Welcome to Athia's website!
 description: This is to test out how easy it is to create a website using github
-baseurl: /aboutme
-pages_list:       {'People':'/aboutme','Research':'/research','Contact Us':'/contact'}
