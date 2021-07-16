@@ -21,7 +21,7 @@
                                 
 Athia Haron                |  Athia's Twin
 :-------------------------:|:-------------------------:
-![](https://athiaharon.github.io/profile.png)  |  ![](https://athiaharon.github.io/profile.png)
+<a href="https://athiaharon.github.io/"><img alt="AthiaHaron2" src="https://athiaharon.github.io/profile.png" width=250" height="250"></a>    |  <a href="https://athiaharon.github.io/"><img alt="AthiaHaron2" src="https://athiaharon.github.io/profile.png" width=250" height="250"></a>   
 
 
 ### Markdown
