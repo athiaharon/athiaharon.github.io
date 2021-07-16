@@ -3,7 +3,6 @@
 **Athia Haron** is a _medical engineering research associate_ at the **University of Manchester**.
 
 This is what she looks like:
-![Image](https://athiaharon.github.io/profile.png| width = 200)
 <img src="https://athiaharon.github.io/profile.png" width="250" height="250" />
 
 ### Markdown
