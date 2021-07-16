@@ -1,7 +1,7 @@
 # People
 
 
-<p float="left">
+<p float="center">
          <a href="https://athiaharon.github.io/">
            <img alt="AthiaHaron" src="https://athiaharon.github.io/profile.png"
             width=250" height="250">
