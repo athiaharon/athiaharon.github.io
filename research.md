@@ -3,7 +3,7 @@ Back to [home](https://athiaharon.github.io/)
 
 <p align="center">
          <a href="https://athiaharon.github.io/">
-         <img src="https://athiaharon.github.io/Athia_Bat_Research.jpg" width="300" height="350">
+         <img src="https://athiaharon.github.io/Athia_Bat_Research.jpg" width="500" height="350">
          </a>                
 </p>
                                 
