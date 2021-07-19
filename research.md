@@ -10,7 +10,7 @@
 
 ## Acoustic Flow Perception in Bats
 <p align="center">
-         <a href="https://athiaharon.github.io/">
+         <a href="https://athiaharon.github.io">
          <img src="https://athiaharon.github.io/Athia_Bat_Research.jpg" width="500" height="400">
          </a>                
 </p>
@@ -23,7 +23,7 @@ PI: **Athia Haron**
 
 ## Acoustic Flow Perception in Bats 2
 <p align="center">
-         <a href="https://athiaharon.github.io/">
+         <a href="https://athiaharon.github.io">
          <img src="https://athiaharon.github.io/Athia_Bat_Research.jpg" width="500" height="400">
          </a>                
 </p>
