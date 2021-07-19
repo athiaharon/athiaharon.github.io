@@ -10,7 +10,7 @@ Back to [home](https://athiaharon.github.io/)
                                 
 Bat project description 
 
-Researchers: [**Athia Haron**](https://athiaharon.github.io/PDRA_athiaharon/)
+Researchers: [**Athia Haron**](https://athiaharon.github.io/PDRA_athiaharon)
 
 PI: **Athia Haron** 
 
@@ -23,6 +23,6 @@ PI: **Athia Haron**
                                 
 Bat project description 
 
-Researchers: [**Athia Haron**](https://athiaharon.github.io/PDRA_athiaharon/)
+Researchers: [**Athia Haron**](https://athiaharon.github.io/PDRA_athiaharon)
 
 PI: **Athia Haron** 
