@@ -21,12 +21,12 @@ Back to [home](https://athiaharon.github.io/)
 
 # Current Researchers
                                 
-| [Athia Haron](https://athiaharon.github.io)       |  [Athia's Twin](https://athiaharon.github.io)     | [Athia's OTHER twin](https://athiaharon.github.io) |
+| [Athia Haron](https://athiaharon.github.io/PDRA_athiaharon/)       |  [Athia's Twin](https://athiaharon.github.io/PDRA_athiaharon/)     | [Athia's OTHER twin](https://athiaharon.github.io/PDRA_athiaharon/) |
 :-------------------------:|:-------------------------:|:--------------------------:
 |![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png)|
-|[Athia Haron 4](https://athiaharon.github.io)       |  [Athia Haron 5](https://athiaharon.github.io)     | [Athia Haron 6](https://athiaharon.github.io) |
+|[Athia Haron 4](https://athiaharon.github.io/PDRA_athiaharon/)       |  [Athia Haron 5](https://athiaharon.github.io/PDRA_athiaharon/)     | [Athia Haron 6](https://athiaharon.github.io/PDRA_athiaharon/) |
 |![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png)|
-|[Athia Haron 4](https://athiaharon.github.io)       |  [Athia Haron 5](https://athiaharon.github.io)     | [Athia Haron 6](https://athiaharon.github.io) |
+|[Athia Haron 4](https://athiaharon.github.io/PDRA_athiaharon/)       |  [Athia Haron 5](https://athiaharon.github.io/PDRA_athiaharon/)     | [Athia Haron 6](https://athiaharon.github.io/PDRA_athiaharon/) |
 |![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png)|
 
 
