@@ -4,7 +4,7 @@ Back to [home](https://athiaharon.github.io/)
 
 
 <p align="center">
-         <a href="https://athiaharon.github.io/">
+         <a href="https://athiaharon.github.io/PDRA_athiaharon">
          <img src="https://athiaharon.github.io/profile.png" width="300" height="350">
          </a>                
 </p>
@@ -12,7 +12,7 @@ Back to [home](https://athiaharon.github.io/)
 **Athia Haron** is a _medical engineering research associate_ at the **University of Manchester**. She has a Masters and PhD in Aerospace Engineering, specialising in bat-inpsired sonar for autonomous navigation. Her current research focuses on developing a navigation system to help ICU clinicians perform tracheostomy procedures. Click on the image to learn more about her research!
                                    
 <p align="center">
-         <a href="https://athiaharon.github.io/">
+         <a href="https://athiaharon.github.io/PDRA_athiaharon">
          <img src="https://athiaharon.github.io/profile.png" width="300" height="350">
          </a>                
 </p>
@@ -21,12 +21,12 @@ Back to [home](https://athiaharon.github.io/)
 
 # Current Researchers
                                 
-| [Athia Haron](https://athiaharon.github.io/PDRA_athiaharon/)       |  [Athia's Twin](https://athiaharon.github.io/PDRA_athiaharon/)     | [Athia's OTHER twin](https://athiaharon.github.io/PDRA_athiaharon/) |
+| [Athia Haron](https://athiaharon.github.io/PDRA_athiaharon)       |  [Athia's Twin](https://athiaharon.github.io/PDRA_athiaharon)     | [Athia's OTHER twin](https://athiaharon.github.io/PDRA_athiaharon) |
 :-------------------------:|:-------------------------:|:--------------------------:
 |![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png)|
-|[Athia Haron 4](https://athiaharon.github.io/PDRA_athiaharon/)       |  [Athia Haron 5](https://athiaharon.github.io/PDRA_athiaharon/)     | [Athia Haron 6](https://athiaharon.github.io/PDRA_athiaharon/) |
+|[Athia Haron 4](https://athiaharon.github.io/PDRA_athiaharon)       |  [Athia Haron 5](https://athiaharon.github.io/PDRA_athiaharon)     | [Athia Haron 6](https://athiaharon.github.io/PDRA_athiaharon) |
 |![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png)|
-|[Athia Haron 4](https://athiaharon.github.io/PDRA_athiaharon/)       |  [Athia Haron 5](https://athiaharon.github.io/PDRA_athiaharon/)     | [Athia Haron 6](https://athiaharon.github.io/PDRA_athiaharon/) |
+|[Athia Haron 4](https://athiaharon.github.io/PDRA_athiaharon)       |  [Athia Haron 5](https://athiaharon.github.io/PDRA_athiaharon)     | [Athia Haron 6](https://athiaharon.github.io/PDRA_athiaharon) |
 |![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png) | ![](https://athiaharon.github.io/profile.png)|
 
 
