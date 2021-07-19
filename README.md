@@ -1,4 +1,4 @@
-<a href="{ https://athiaharon.github.io/about }" class="button">About</a>
+<a href="https://athiaharon.github.io/about" class="button">About</a>
 
 ## Welcome to GitHub Pages
 
