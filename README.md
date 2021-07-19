@@ -6,7 +6,13 @@
     </p>
 </div>          
     
+## Weightman-Cooper Research (test website)
 
+Here is a test website for the Weightman-Cooper Research Group created by (c) Athia Haron, 2021.
+Enjoy!
+
+### About Us
+Click [here](https://athiaharon.github.io/about) to learn more about our team! (Test)
 
 ## Welcome to GitHub Pages
 
@@ -46,5 +52,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-### About Me
-Click [here](https://athiaharon.github.io/about) to learn more about me! (Test)
+
