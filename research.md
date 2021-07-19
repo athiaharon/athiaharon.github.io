@@ -9,7 +9,9 @@ Back to [home](https://athiaharon.github.io/)
 </p>
                                 
 Bat project description 
+
 Researchers: [**Athia Haron**](https://athiaharon.github.io/PDRA_athiaharon/)
+
 PI: **Athia Haron** 
 
 ## Acoustic Flow Perception in Bats 2
@@ -20,5 +22,7 @@ PI: **Athia Haron**
 </p>
                                 
 Bat project description 
+
 Researchers: [**Athia Haron**](https://athiaharon.github.io/PDRA_athiaharon/)
+
 PI: **Athia Haron** 
