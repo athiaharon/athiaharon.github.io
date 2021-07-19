@@ -2,7 +2,7 @@
     <p align="center">
         <a href="https://athiaharon.github.io/" class="button big">HOME</a>
         <a href="https://athiaharon.github.io/about" class="button big">PEOPLE</a>
-        <a href="https://athiaharon.github.io/" class="button big">RESEARCH</a>
+        <a href="https://athiaharon.github.io/research" class="button big">RESEARCH</a>
     </p>
 </div>          
     
