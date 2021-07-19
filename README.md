@@ -1,4 +1,8 @@
-<a href="https://athiaharon.github.io/about" class="button">About</a>
+<div class="button-group">
+    <a href="https://athiaharon.github.io/" class="button big">HOME</a>
+    <a href="https://athiaharon.github.io/about" class="button big">PEOPLE</a>
+    <a href="https://athiaharon.github.io/" class="button big">RESEARCH</a>
+</div>
 
 ## Welcome to GitHub Pages
 
